@@ -131,7 +131,9 @@
             },
             "properties": {
                 "VkPhysicalDeviceProperties": {
-                    "sparseProperties": {},
+                    "sparseProperties": {
+                        "residencyAlignedMipSize": true
+                    },
                     "limits": {
                         "bufferImageGranularity": 65536,
                         "discreteQueuePriorities": 2,
@@ -1925,6 +1927,9 @@
                     "author": "LunarG Profiles Generation",
                     "comment": "Generated profile"
                 }
+            ],
+            "profiles": [
+                "VP_LUNARG_minimum_requirements_1_2"
             ],
             "capabilities": [
                 "baseline"

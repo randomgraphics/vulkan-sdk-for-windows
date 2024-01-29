@@ -8,8 +8,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "vkcube", "vkcube.vcxproj", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "vkcubepp", "vkcubepp.vcxproj", "{157661F1-12B5-471E-AE1F-FE80D5466618}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "vulkaninfo", "vulkaninfo.vcxproj", "{7D88DD3E-2DC0-4F96-AACB-63A1478627D6}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Win32 = Debug|Win32
@@ -34,14 +32,6 @@ Global
 		{157661F1-12B5-471E-AE1F-FE80D5466618}.Release|Win32.Build.0 = Release|Win32
 		{157661F1-12B5-471E-AE1F-FE80D5466618}.Release|x64.ActiveCfg = Release|x64
 		{157661F1-12B5-471E-AE1F-FE80D5466618}.Release|x64.Build.0 = Release|x64
-		{7D88DD3E-2DC0-4F96-AACB-63A1478627D6}.Debug|Win32.ActiveCfg = Debug|Win32
-		{7D88DD3E-2DC0-4F96-AACB-63A1478627D6}.Debug|Win32.Build.0 = Debug|Win32
-		{7D88DD3E-2DC0-4F96-AACB-63A1478627D6}.Debug|x64.ActiveCfg = Debug|x64
-		{7D88DD3E-2DC0-4F96-AACB-63A1478627D6}.Debug|x64.Build.0 = Debug|x64
-		{7D88DD3E-2DC0-4F96-AACB-63A1478627D6}.Release|Win32.ActiveCfg = Release|Win32
-		{7D88DD3E-2DC0-4F96-AACB-63A1478627D6}.Release|Win32.Build.0 = Release|Win32
-		{7D88DD3E-2DC0-4F96-AACB-63A1478627D6}.Release|x64.ActiveCfg = Release|x64
-		{7D88DD3E-2DC0-4F96-AACB-63A1478627D6}.Release|x64.Build.0 = Release|x64
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

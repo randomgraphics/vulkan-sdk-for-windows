@@ -1,1 +1,0 @@
-This repository is a pre-installed Vulkan-SDK for Window platform. The purpose of this repository is to be used as submodule in other Vulkan projects as external dependencies to make building process easier.

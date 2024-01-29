@@ -180,6 +180,7 @@
                 },
                 "VkPhysicalDeviceProperties": {
                     "sparseProperties": {
+                        "residencyAlignedMipSize": true,
                         "residencyNonResidentStrict": false
                     },
                     "limits": {
