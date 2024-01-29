@@ -1,4 +1,4 @@
-Note: this is README file for this repository. Check out [README.txt](README.txt) for original readme of Vulkan SDK.
+Note: this is README file for this repository. Check out [readme.txt](readme.txt) for original readme of Vulkan SDK.
 
 This repository is a pre-installed Vulkan-SDK for Window platform. The purpose of this repository is to simplify Vulkan applications build process on Windows, especially when doing it with automated scripts.
 
